@@ -28,9 +28,10 @@ Earning this certificate and the accompanying IBM digital badge demonstrates my 
 12. Fundamentals of AI Agents Using RAG and LangChain
 13. Project: Generative AI Applications with RAG and LangChain
 
-## Projects
+## Projects & Assignments
 - [Building Two Image Classifier Models & Evaluating Their Effectiveness](/Project:%20Deep%20Learning/Comparing%20Pretrained%20Models.ipynb)
-- [Transformers for Translation](/Project:%20Transformers%20for%20Translation/Transformers%20for%20Translation.ipynb)
+- [Transformers for Translation](/Assignment:%20Transformers%20for%20Translation/Transformers%20for%20Translation.ipynb)
+- [Fine-Tuning Transformers with PyTorch & Hugging Face](/Assignment:%20Fine-Tuning%20Transformer%20with%20PyTorch%20and%20Hugging%20Face/Fine-Tuning%20Transformers%20with%20PyTorch%20and%20Hugging%20Face.ipynb)
 - [Creating a GenAI Application with RAG & LangChain]()
 
 ## Certificate
