@@ -30,6 +30,7 @@ Earning this certificate and the accompanying IBM digital badge demonstrates my 
 
 ## Projects
 - [Building Two Image Classifier Models & Evaluating Their Effectiveness](/Project:%20Deep%20Learning/Comparing%20Pretrained%20Models.ipynb)
+- [Transformers for Translation](/Project:%20Transformers%20for%20Translation/Transformers%20for%20Translation.ipynb)
 - [Creating a GenAI Application with RAG & LangChain]()
 
 ## Certificate
