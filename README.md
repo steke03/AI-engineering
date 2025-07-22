@@ -32,6 +32,7 @@ Earning this certificate and the accompanying IBM digital badge demonstrates my 
 - [Building Two Image Classifier Models & Evaluating Their Effectiveness](/Project:%20Deep%20Learning/Comparing%20Pretrained%20Models.ipynb)
 - [Transformers for Translation](/Assignment:%20Transformers%20for%20Translation/Transformers%20for%20Translation.ipynb)
 - [Fine-Tuning Transformers with PyTorch & Hugging Face](/Assignment:%20Fine-Tuning%20Transformer%20with%20PyTorch%20and%20Hugging%20Face/Fine-Tuning%20Transformers%20with%20PyTorch%20and%20Hugging%20Face.ipynb)
+- [Enhancing LLMs using RAG & Hugging Face](/Assignment:%20RAG%20with%20Hugging%20Face/RAG%20with%20Hugging%20Face.ipynb)
 - [Creating a GenAI Application with RAG & LangChain]()
 
 ## Certificate
