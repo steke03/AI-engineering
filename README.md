@@ -36,4 +36,4 @@ Earning this certificate and the accompanying IBM digital badge demonstrates my 
 - [Creating a GenAI Application with RAG & LangChain](/Project:%20GenAI%20App%20with%20RAG%20and%20LangChain/QA%20bot%20to%20answer%20questions%20from%20loaded%20document.md)
 
 ## Certificate
-[ To be added upon completion ]
+![IBM AI Engineering Certification](/AI%20Engineering.jpg)
